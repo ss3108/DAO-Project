@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
-import "../node_modules/hardhat/console.sol";
+import "hardhat/console.sol";
 
 /**
  * Interface for the FakeNFTMarketplace
